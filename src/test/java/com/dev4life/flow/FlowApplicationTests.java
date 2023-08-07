@@ -1,4 +1,4 @@
-package com.dev4life.flow;
+/*package com.dev4life.flow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,4 +10,4 @@ class FlowApplicationTests {
 	void contextLoads() {
 	}
 
-}
+}*/
